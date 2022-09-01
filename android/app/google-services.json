@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493529088706",
+    "project_id": "chat-app-e9553",
+    "storage_bucket": "chat-app-e9553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493529088706:android:9506d4af0054aea54ef15b",
+        "android_client_info": {
+          "package_name": "sansu.com.chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493529088706-gphbp85qudbv4rrdmoolt1ts3etovrsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Br-XFju9OjSvqxLAoGiZ3LPa7DOCe_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493529088706-gphbp85qudbv4rrdmoolt1ts3etovrsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
